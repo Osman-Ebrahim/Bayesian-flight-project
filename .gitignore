@@ -1,0 +1,5 @@
+.DS_Store
+bayesian-flight-project/data/Raw/*.csv
+bayesian-flight-project/data/Raw/*.mdb
+bayesian-flight-project/data/Raw/archive/*.csv
+bayesian-flight-project/data/Raw/archive/Visulization graph/*.html
