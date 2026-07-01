@@ -7,7 +7,7 @@ Osman Ebrahim · University of Roehampton · 2026
 
 A Bayesian probabilistic decision-support system for aviation risk assessment, fuel efficiency analysis, CO₂ emissions estimation, and conflict zone route planning. Built entirely in Python using Streamlit, the system trains a Naive Bayes classifier on 88,000+ real NTSB accident records and produces both a risk classification and a Bayesian-weighted CO₂ estimate in a single unified inference pass.
 
-This project originated from an AI essay on Bayesian inference in aviation — awarded the highest grade the supervising professor had ever given — and was developed into a full-stack data science application over a five-sprint development cycle.
+This project originated from an AI essay on Bayesian inference in aviation awarded the highest grade the supervising professor had ever given and was developed into a full-stack data science application over a five-sprint development cycle.
 
 
 ## 🚀 Features
